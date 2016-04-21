@@ -1,0 +1,289 @@
+/********* StyleSheet *******/
+
+html, body {
+  height :75% ;	
+}
+
+body{
+	background-color:beige;
+	font-family: Play;
+	overflow-x: hidden;
+	
+}
+
+
+nav {
+	position: absolute;
+	width: 100%;
+    z-index: 99;	
+	background:#fff;
+	border: none;
+	
+}
+
+.fixed {
+	position: fixed; 
+	top: 0; 
+	min-height: 50px; 
+	z-index: 99;
+}
+
+.navbar-inverse {
+background-color: #525252;
+border-color: #4B4A4A;
+}
+
+.page-header h2 {
+	color:#936c6c;
+	font size: 50px;
+	font-weight:500;
+}
+
+/* Home Section */
+
+.Hometext span:nth-child(n),
+a {
+  text-shadow: none;
+}
+
+#home a {
+  margin: 4px;
+  border: 1px solid black;
+}
+#home h1{
+	line-height: :120px;
+	color:#00BFCD;
+	font size: 50px;
+	font-weight:500;
+	
+}
+
+#home p {
+	color: #0099FF;
+}
+/* Buttons Hover */
+.btn-default:hover {
+	 color: white;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  /* For IE8 and earlier */
+  -moz-opacity: 0.8;
+  -ms-filter: alpha(opacity=80);
+  transition-duration: 0.6s;
+  -webkit-transition-duration: 0.6s;
+  -moz-transition-duration: 0.6s;
+  -o-transition-duration: 0.6s;
+}
+
+/* Home Section */
+#home{
+	background-image: url("https://pixabay.com/static/uploads/photo/2015/12/30/17/19/iphone-5s-photopack-cafe-part-1114401_960_720.jpg");
+	background-size: cover;
+  background-attachment: fixed;
+  color: #800000;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  /*text-shadow: -2px -2px 1px black; */
+  margin-bottom: 0;
+}
+
+#home a {
+  margin: 8px;
+  border: 1px solid black;
+}
+
+
+/* Feedback Section */
+
+#fdback h1{
+
+	color:#732626;
+}	
+	
+#fdback small{
+	color:#4d1919;
+}
+
+#fdback{
+	background-image:
+url("https://pixabay.com/static/uploads/photo/2015/11/05/09/52/touch-screen-1023965_960_720.jpg");		
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 10%;
+  padding-bottom: 25%;
+  margin-bottom: 0;
+}
+
+blockquote {
+	display:block;
+	font-family: Helvitica, sans-serif, Arial;
+	color:#ffcccc;
+	font-style: normal;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: Left;
+	color: #ffcccc;
+}
+cite{
+	text-align:right;
+}
+
+
+/* Gallery Section */
+
+#gal h1{
+
+	color:#732626;
+}	
+	
+#gal small{
+	color:#4d1919;
+}
+
+
+#gal{
+	background-image: url("https://pixabay.com/static/uploads/photo/2015/03/26/09/41/phone-690091_960_720.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 10%;
+  padding-bottom: 25%;
+  margin-bottom: 0;	
+}
+
+
+/* Feature Section */
+
+
+#fet h1{
+
+	color:#732626;
+}	
+	
+#fet small{
+	color:#4d1919;
+}
+
+
+#fet{
+	background-image:
+url("https://pixabay.com/static/uploads/photo/2015/06/30/08/07/lens-826308_960_720.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 10%;
+  padding-bottom: 25%;
+  margin-bottom: 0;	
+}
+
+.col-sm-8 h2{
+	color:#99ffbb;
+}
+
+.col-sm-8 p{
+	font-size : 25px;
+	color:#0088cc;
+}
+
+
+
+
+/* FAQ Section */
+
+#fa h1{
+
+	color:#732626;
+}	
+	
+#fa small{
+	color:#4d1919;
+}
+#fa{
+	background-image: url("https://pixabay.com/static/uploads/photo/2015/05/12/09/13/freelancer-763730_960_720.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 10%;
+  padding-bottom: 25%;
+  margin-bottom: 0;	
+}
+
+.panel-heading: hover {
+	color: #b3ffcc;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  /* For IE8 and earlier */
+  -moz-opacity: 0.8;
+  -ms-filter: alpha(opacity=80);
+  transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+}
+	/*background-color: #b3ffcc;*/
+
+
+.panel-group a
+{
+	font-size: 25px;
+	color: #1a1aff;
+}
+
+.panel-body {
+	font-size: 20px;
+	color:#9999ff;
+}
+
+
+/* Contact Section */
+
+
+#con h1{
+
+	color:#732626;
+}	
+	
+label{
+	font-size: 20px;
+	color:#391313;
+}
+#con{
+	 background-image: url("http://www.orvi.com/wp-content/uploads/2015/06/bg_contact.jpg");
+  color: black;
+	paddding-top:10%;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-bottom: 5%;
+}
+ 
+
+/* Footer Section */
+
+#foot {	      			    
+	background-color:#f5f5f0 ;
+	padding-top : -10%;
+	margin-top: -5%;
+
+}
+
+#foo{
+	padding: 2%;
+}
+
+
+footer{
+	background: #222;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	font-family: serif;
+	
+}
+footer a {
+	color: #ff9999;
+}
+
+/*
+padding-top: -10px;
+*/
+
+
+
+
