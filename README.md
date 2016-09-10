@@ -4,4 +4,4 @@ I desgined a web app using HTML5, CSS3, Bootstrap3 and JQuery. This website is d
 as it consists Home, Feedback, Gallery, FAQ and Contact sections.
 
 
-[WikiApp.png](https://postimg.org/image/qxf5uj7vp/)
+![alt tag](https://s10.postimg.org/hcvj7nijt/Wiki_App.png)
