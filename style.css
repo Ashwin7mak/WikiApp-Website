@@ -8,7 +8,6 @@ body{
 	background-color:beige;
 	font-family: Play;
 	overflow-x: hidden;
-	
 }
 
 
@@ -77,9 +76,7 @@ a {
 
 /* Home Section */
 #home{
-	background-image: url("https://pixabay.com/static/uploads/photo/2015/12/30/17/19/iphone-5s-photopack-cafe-part-1114401_960_720.jpg");
-	background-size: cover;
-  background-attachment: fixed;
+	
   color: #800000;
   padding-top: 20%;
   padding-bottom: 20%;
@@ -106,7 +103,7 @@ a {
 
 #fdback{
 	background-image:
-url("https://pixabay.com/static/uploads/photo/2015/11/05/09/52/touch-screen-1023965_960_720.jpg");		
+url("img/touch-screen-1023965_960_720.jpg");		
   background-size: cover;
   background-attachment: fixed;
   padding-top: 10%;
@@ -142,7 +139,7 @@ cite{
 
 
 #gal{
-	background-image: url("https://pixabay.com/static/uploads/photo/2015/03/26/09/41/phone-690091_960_720.jpg");
+	background-image: url("img/phone-690091_960_720.jpg");
   background-size: cover;
   background-attachment: fixed;
   padding-top: 10%;
@@ -166,7 +163,7 @@ cite{
 
 #fet{
 	background-image:
-url("https://pixabay.com/static/uploads/photo/2015/06/30/08/07/lens-826308_960_720.jpg");
+url("img/lens-826308_960_720.jpg");
   background-size: cover;
   background-attachment: fixed;
   padding-top: 10%;
@@ -197,7 +194,7 @@ url("https://pixabay.com/static/uploads/photo/2015/06/30/08/07/lens-826308_960_7
 	color:#4d1919;
 }
 #fa{
-	background-image: url("https://pixabay.com/static/uploads/photo/2015/05/12/09/13/freelancer-763730_960_720.jpg");
+	background-image: url("img/freelancer-763730_960_720.jpg");
   background-size: cover;
   background-attachment: fixed;
   padding-top: 10%;
@@ -245,7 +242,7 @@ label{
 	color:#391313;
 }
 #con{
-	 background-image: url("http://www.orvi.com/wp-content/uploads/2015/06/bg_contact.jpg");
+	 background-image: url("img/bg_contact.jpg");
   color: black;
 	paddding-top:10%;
   background-size: cover;
