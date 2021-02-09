@@ -6,5 +6,3 @@
 
 Locally hosted githubpage : https://ashwin7mak.github.io/WikiApp-Website/template.html
 
-
-![alt tag](https://s10.postimg.org/hcvj7nijt/Wiki_App.png)
